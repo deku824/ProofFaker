@@ -6,7 +6,7 @@ import pyppeteer
 import asyncio
 import pytz
 channels = [1525482016181719061]
-token = "MTUyNTUyMzE4NTg5MjcyNDc5Ng.GqIv3Z.nYIRkgOgeFbznj1Xb9pflrsjKBTkLr8kg9a6a4"
+token = "MTUyNTUyMzE4NTg5MjcyNDc5Ng.GxJoid.0DLoGSSW3-7j42iXHh7CjFK__mlNTnaG1oN2xc"
 
 locale_to_timezone = {
     discord.Locale.american_english: 'America/New_York',        # en-US
